@@ -1,6 +1,6 @@
 # SlowMetro (React Native 0.57.0)
 
-**NB** A good example of a file that is unchange between 0.56.1 and 0.57.0 is `node_modules/react-native/Libraries/Modal/Modal.js`. This file takes 60ms to transform with RN 0.56.1 (Metro 0.38.4), but 3658ms to transform with RN 0.57.0 (Metro 0.45.3).
+**NB** A good example of a file that is unchanged between 0.56.1 and 0.57.0 is `node_modules/react-native/Libraries/Modal/Modal.js`. This file takes 60ms to transform with RN 0.56.1 (Metro 0.38.4), but 3658ms to transform with RN 0.57.0 (Metro 0.45.3).
 
 ## To replicate:
 ```bash
